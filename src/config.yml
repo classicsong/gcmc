@@ -17,8 +17,8 @@ dense_relu: True
 bidec_drop: False
 
 # dataset
-root: data/ml-10m
-dataset_name: ml-10M100K
+root: data/ml-1m
+dataset_name: ml-1m
 #root: data/ml-100k
 #dataset_name: ml-100k
 
